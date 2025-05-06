@@ -1,6 +1,6 @@
 # 📚 Repositório de Estudos
 
-Bem-vindo ao meu repositório de estudos! Este espaço contém meus resumos, anotações e projetos de aprendizado organizados por temas, como Inteligência Artificial e Padrões de Projeto.
+Bem-vindo ao meu repositório de estudos! Este espaço contém meus resumos, anotações e projetos de aprendizado organizados por temas.
 
 ---
 
