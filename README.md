@@ -6,9 +6,12 @@ Bem-vindo ao meu repositório de estudos! Este espaço contém meus resumos, ano
 
 ## 📁 Estrutura do Repositório
 
+- [📂 Programação Orientada a Objetos](./poo/introducao.md)
+
 - [📂 Inteligência Artificial](Inteligência-artificial/introducao.md)
 - [📂 Padrões de Projeto](./padroes-de-projeto)
 - [📂 Padrões Estruturais](./padroes-estruturais)
+
 
 
 
