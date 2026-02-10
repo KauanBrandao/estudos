@@ -6,9 +6,7 @@ Aqui você encontra os principais tópicos organizados em módulos de estudo.
 ## 📂 Conteúdos
 
 - [☕ Programação Orientada a Objetos (POO)](./Poo/introducao.md)
-- [🚀 Spring Boot](./Spring-boot/introducao.md)
-- [🧪 Testes Unitários](./Tests/Testes-Unitarios.md)
 
----
+
 
 👉 Escolha um tópico acima para começar.
