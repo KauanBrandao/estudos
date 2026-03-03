@@ -10,7 +10,7 @@
 
 
 
-
+  
 ### As principais características da POO.
 
 - **Encapsulamento:** É usado para omitir atributos e métodos (características e comportamentos) de uma classe a fim de esconder detalhes internos e para segurança também. Permitindo o acesso desses detalhes apenas por métodos específicos como getters e setters. 
